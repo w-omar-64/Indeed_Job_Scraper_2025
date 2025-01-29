@@ -1,4 +1,4 @@
-# **Indeed Job Scraper 🕵️‍♂️💼**
+# **Indeed Job Scraper **
 
 ## **Overview**
 This notebook is a web scraper for Indeed job postings, built using **Selenium** and **BeautifulSoup (bs4)**. It automates the process of searching for job listings, extracts relevant details (such as job title, company, location, and link), and saves the data into a CSV file for further analysis.
@@ -25,7 +25,7 @@ Ensure you have the following installed:
 - Ensure the WebDriver path is correctly configured in the script.
 
 ### **2. Define Job Search Parameters**
-- Modify search keywords, and location.
+- Modify search keywords and location.
 
 ### **3. Scrape Job Data**
 - The script will visit **Indeed**, search for jobs, and extract details such as:

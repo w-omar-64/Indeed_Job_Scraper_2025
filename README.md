@@ -40,6 +40,6 @@ Ensure you have the following installed:
 
 ## **Disclaimer**
 > **⚠️ Educational Purposes Only**  
-> This scraper is for **educational purposes only**. Scraping Indeed may violate their terms of service, so use it responsibly.
+> This scraper is for **educational purposes only**.
 ---
 🚀 Happy Scraping!  
